@@ -111,21 +111,21 @@ Attendance & Academic Records
 
 📄 My Contributions
 
-Developed multi-role login system with Academy ID, role selection, and secure credential verification.
+-Developed multi-role login system with Academy ID, role selection, and secure credential verification.
 
-Architected multi-tenant backend with GUID-based data isolation.
+-Architected multi-tenant backend with GUID-based data isolation.
 
-Developed dynamic schema modules for students, teachers, managers, and administrative staff.
+-Developed dynamic schema modules for students, teachers, managers, and administrative staff.
 
-Implemented RBAC with PHP sessions and permission matrices for multiple roles.
+-Implemented RBAC with PHP sessions and permission matrices for multiple roles.
 
-Built OTP-based authentication and secure session workflows.
+-Built OTP-based authentication and secure session workflows.
 
-Designed normalized MySQL schema with referential integrity and tenant-based query partitioning.
+-Designed normalized MySQL schema with referential integrity and tenant-based query partitioning.
 
-Developed dashboards, reporting features, and validation workflows for operational efficiency.
+-Developed dashboards, reporting features, and validation workflows for operational efficiency.
 
-Deployed and maintained live production instance on Hostinger with secure multi-tenant architecture.
+-Deployed and maintained live production instance on Hostinger with secure multi-tenant architecture.
 
 📢 Notes
 
