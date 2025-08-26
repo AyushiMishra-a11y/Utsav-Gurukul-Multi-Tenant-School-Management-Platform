@@ -83,3 +83,51 @@ flowchart TD
     T --> AR[Academic Records & Reporting]
     M --> R[Reporting & Workflow Management]
     S --> SD[Student Portal]
+```
+🖼 Screenshots
+
+Add screenshots in the assets/ folder
+
+Control Panel Login (Student / Teacher / Admin / Super Admin)
+
+
+Super Admin Dashboard
+
+
+School Admin Panel
+
+
+Teacher Dashboard
+
+
+Manager / Admin Staff Dashboard
+
+
+Student Dashboard & Records
+
+
+Attendance & Academic Records
+
+
+📄 My Contributions
+
+Developed multi-role login system with Academy ID, role selection, and secure credential verification.
+
+Architected multi-tenant backend with GUID-based data isolation.
+
+Developed dynamic schema modules for students, teachers, managers, and administrative staff.
+
+Implemented RBAC with PHP sessions and permission matrices for multiple roles.
+
+Built OTP-based authentication and secure session workflows.
+
+Designed normalized MySQL schema with referential integrity and tenant-based query partitioning.
+
+Developed dashboards, reporting features, and validation workflows for operational efficiency.
+
+Deployed and maintained live production instance on Hostinger with secure multi-tenant architecture.
+
+📢 Notes
+
+This repository is for documentation purposes only.
+Source code is proprietary, but this case study demonstrates backend engineering expertise in multi-tenancy, RBAC, dynamic modules, multi-role login, and production-grade secure web application architecture.
