@@ -86,28 +86,17 @@ flowchart TD
 ```
 🖼 Screenshots
 
-Add screenshots in the assets/ folder
+### Control Panel Login (Student / Teacher / Admin / Super Admin)
+![Home Screenshot](assets/HP.png) 
 
-Control Panel Login (Student / Teacher / Admin / Super Admin)
+### School Enrollement
+![Home Screenshot](assets/SE.png) 
 
+### Registered School Details
+![Home Screenshot](assets/RS.png) 
 
-Super Admin Dashboard
-
-
-School Admin Panel
-
-
-Teacher Dashboard
-
-
-Manager / Admin Staff Dashboard
-
-
-Student Dashboard & Records
-
-
-Attendance & Academic Records
-
+### Student Registration
+![Home Screenshot](assets/SR.png) 
 
 📄 My Contributions
 
