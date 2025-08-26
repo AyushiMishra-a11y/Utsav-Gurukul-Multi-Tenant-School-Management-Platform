@@ -86,8 +86,11 @@ flowchart TD
 ```
 🖼 Screenshots
 
-### Control Panel Login (Student / Teacher / Admin / Super Admin)
+### Home Page
 ![Home Screenshot](assets/HP.png) 
+
+### Control Panel Login (Student / Teacher / Admin / Super Admin)
+![Home Screenshot](assets/LP.png) 
 
 ### School Enrollement
 ![Home Screenshot](assets/SE.png) 
